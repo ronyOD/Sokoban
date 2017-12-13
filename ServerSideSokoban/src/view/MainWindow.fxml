@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.layout.BorderPane?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="318.0" prefWidth="381.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.MainWindowController">
+	 <children>
+        <Button fx:id="button" layoutX="14.0" layoutY="160.0" onAction="#handleDisconnectButtonAction" prefHeight="26.0" prefWidth="100.0" text="Disconnect" />
+      <ListView fx:id="myListView" layoutX="14.0" layoutY="13.0" prefHeight="136.0" prefWidth="134.0" />
+      <Button layoutX="210.0" layoutY="160.0" onAction="#handleEndTaskButtonAction" mnemonicParsing="false" prefHeight="27.0" prefWidth="107.0" text="End Task" />
+      <Text layoutX="14.0" layoutY="230.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Max. Number of clients" wrappingWidth="150.0" />
+      <Button layoutX="14.0" layoutY="283.0" onAction="#handleLimitNumOfClients" mnemonicParsing="false" text="Apply" />
+      <Button layoutX="268.0" layoutY="283.0" onAction="#handleCloseServerButtonAction" mnemonicParsing="false" prefHeight="27.0" prefWidth="100.0" text="Close Server" />
+      <ListView fx:id="myTasksListView" layoutX="210.0" layoutY="14.0" prefHeight="136.0" prefWidth="150.0" />
+      <TextField id="numOfClients" fx:id="numOfClients" layoutX="14.0" layoutY="247.0"  prefHeight="27.0" prefWidth="53.0" promptText="numOfClients" />
+    </children>
+</AnchorPane>
