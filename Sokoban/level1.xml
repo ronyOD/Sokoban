@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<level>
+  <row>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="target"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="target"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="target"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="box"/>
+    <cell type="box"/>
+    <cell type="box"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+  </row>
+  <row>
+    <cell type="floor"/>
+    <cell type="floor"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+    <cell type="wall"/>
+  </row>
+  <playerPosition h="2" w="5"/>
+</level>

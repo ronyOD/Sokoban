@@ -1,0 +1,13 @@
+
+Ron Yaish
+302748520
+
+הערות והפעלה:
+- Run GUI with server: `boot.Run -server port` / without server: `boot.Run` (or use Run.launch)
+- Run CLI with client: `cli.CLI -client host port` / without client: `cli.CLI` (or use CLI.launch)
+- Use GUI to load, save, play
+- Send messages from client to server
+- Exit from GUI or from CLI
+- resources/keys.xml - to define control keys
+- resources/*.png - to replace level images
+- Use the same Sokoban policy from Part 1
